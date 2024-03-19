@@ -1,0 +1,40 @@
+2024-03-19 10:53:07 - L'utilisateur a ouvert l'application.
+2024-03-19 10:53:14 - Tâche créée: bidule
+2024-03-19 10:53:17 - Tâche supprimée: bidule - Créé le 19/03/2024 10:53:14
+2024-03-19 10:53:17 - Tâche supprimée: bidule - Créé le 19/03/2024 10:53:14
+2024-03-19 10:53:21 - Tâche créée: eee
+2024-03-19 10:53:29 - Tâche modifiée: Avant: eee - Créé le 19/03/2024 10:53:21, Après: eee - Modifié le 19/03/2024 10:53:29
+2024-03-19 10:53:34 - Tâche supprimée: eee - Modifié le 19/03/2024 10:53:29
+2024-03-19 10:53:34 - Tâche supprimée: eee - Modifié le 19/03/2024 10:53:29
+2024-03-19 11:49:28 - L'utilisateur a ouvert l'application.
+2024-03-19 11:50:07 - L'utilisateur a ouvert l'application.
+2024-03-19 13:40:10 - L'utilisateur a ouvert l'application.
+2024-03-19 13:40:51 - L'utilisateur a ouvert l'application.
+2024-03-19 13:41:50 - L'utilisateur a ouvert l'application.
+2024-03-19 13:43:23 - L'utilisateur a ouvert l'application.
+2024-03-19 13:43:27 - Tâche créée: bidule
+2024-03-19 13:43:34 - Tâche supprimée: bidule - Créé le 19/03/2024 13:43:27
+2024-03-19 13:43:34 - Tâche supprimée: bidule - Créé le 19/03/2024 13:43:27
+2024-03-19 13:43:41 - Tâche créée: bidule
+2024-03-19 13:43:47 - Tâche créée: d
+2024-03-19 13:43:50 - Tâche créée: s
+2024-03-19 13:43:53 - Tâche créée: d
+2024-03-19 13:44:30 - L'utilisateur a ouvert l'application.
+2024-03-19 13:44:35 - Tâche créée: e
+2024-03-19 13:45:06 - L'utilisateur a ouvert l'application.
+2024-03-19 13:45:11 - Tâche créée: e
+2024-03-19 13:46:16 - L'utilisateur a ouvert l'application.
+2024-03-19 13:46:19 - Tâche créée: e
+2024-03-19 13:46:46 - L'utilisateur a ouvert l'application.
+2024-03-19 13:46:50 - Tâche créée: e
+2024-03-19 13:46:54 - Tâche créée: e
+2024-03-19 13:47:28 - L'utilisateur a ouvert l'application.
+2024-03-19 13:47:33 - Tâche créée: ee
+2024-03-19 13:52:14 - L'utilisateur a ouvert l'application.
+2024-03-19 13:53:30 - L'utilisateur a ouvert l'application.
+2024-03-19 14:23:33 - L'utilisateur a ouvert l'application.
+2024-03-19 14:24:53 - L'utilisateur a ouvert l'application.
+2024-03-19 14:24:57 - Création
+2024-03-19 14:25:01 - Tâche créée: e
+2024-03-19 14:25:06 - Tâche supprimée: e - Créé le 19/03/2024 14:25:01
+2024-03-19 14:25:06 - Tâche supprimée: e - Créé le 19/03/2024 14:25:01
